@@ -12,17 +12,22 @@ This is the organization for college app project, which is developed in collabor
     * ~~user login & register~~
 * User module
     * ~~user CRUD~~
-    * user puzzle list
+    * ~~user puzzle list~~
 * Puzzle module
     * ~~GET methods & pagination~~
     * ~~solve - geo validation~~
 * ~~Leaderboard~~
+* Image module
+    * ~~list avatars~~
+    * ~~get avatar/puzzle by key~~
+* ~~S3 module~~
 
 ## Mobile
 * ~~Auth screens - login and register~~
 * ~~api connection module~~
-* S3 bucket integration
+* getting images
 * User
     * profile
 * Puzzles
     * list puzzles
+

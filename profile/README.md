@@ -3,7 +3,7 @@ This is the organization for college app project, which is developed in collabor
 
 # Task todo
 
-## [Backend](https://github.com/ASPxISSP/backend) - [Tymon Śliwiński[(https://github.com/TymonSliwinski)
+## [Backend](https://github.com/ASPxISSP/backend) - [Tymon Śliwińsk][(https://github.com/TymonSliwinski)
 * ~~Host DB and API on render.com~~ - [link](backend-4psy.onrender.com/)
 * ~~Database - postgres tables & prisma setup~~
 * ~~S3 bucket setup for assets~~

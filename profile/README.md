@@ -33,4 +33,18 @@ This is the organization for college app project, which is developed in collabor
     * list puzzles
 
 # Raporty
-##### [Raport 1 - 07.12.2023](https://uniwroc-my.sharepoint.com/:p:/g/personal/322854_uwr_edu_pl/EUbfOyLDm0RBksYP_SeoPQoBHla8YqJoA766J4E4qMGhFw?e=pXheZW)
+### [Raport 1 - 07.12.2023](https://uniwroc-my.sharepoint.com/:p:/g/personal/322854_uwr_edu_pl/EUbfOyLDm0RBksYP_SeoPQoBHla8YqJoA766J4E4qMGhFw?e=pXheZW)
+
+### Raport 2 - 23.01.2024
+* ##### Jaki procent całego projektu jest już zrealizowany?
+90-95% aplikacji; jesteśmy na etapie finalizowania warstwy wizualnej aplikacji (style, ikony, drobne zmiany w ekranach) oraz dodania produkcyjnych assetów (rebusów).
+
+* ##### Czy istnieją jakieś przeszkody, które mogą uniemożliwić skończenie projektu w terminie?
+Nie, po początkowych opóźnieniach udało się nadgonić harmonogram i prace wróciły na właściwy tor.
+
+* ##### Jaki termin grupa wybiera na prezentację projektu (czwartek czy poniedziałek)?
+Czwartek
+
+* ##### Czy jest ktoś kto z ważnych powodów nie może się pojawić ani w czwartek ani w poniedziałek?
+Nie, udamy się całą grupą na prezentację na zajęciach czwartkowych.
+

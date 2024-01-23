@@ -31,3 +31,5 @@ This is the organization for college app project, which is developed in collabor
 * Puzzles
     * list puzzles
 
+# Raporty
+##### [Raport 1 - 07.12.2023](https://uniwroc-my.sharepoint.com/:p:/g/personal/322854_uwr_edu_pl/EUbfOyLDm0RBksYP_SeoPQoBHla8YqJoA766J4E4qMGhFw?e=pXheZW)

@@ -3,8 +3,8 @@ This is the organization for college app project, which is developed in collabor
 
 # Task todo
 
-## Backend
-* ~~Host DB and API on render.com~~
+## [Backend](https://github.com/ASPxISSP/backend) - [Tymon Śliwiński[(https://github.com/TymonSliwinski)
+* ~~Host DB and API on render.com~~ - [link](backend-4psy.onrender.com/)
 * ~~Database - postgres tables & prisma setup~~
 * ~~S3 bucket setup for assets~~
 * Auth
@@ -21,6 +21,7 @@ This is the organization for college app project, which is developed in collabor
     * ~~list avatars~~
     * ~~get avatar/puzzle by key~~
 * ~~S3 module~~
+* Add received assets to S3 bucket and integrate into the app
 
 ## Mobile
 * ~~Auth screens - login and register~~

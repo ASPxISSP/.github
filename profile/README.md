@@ -26,11 +26,11 @@ This is the organization for college app project, which is developed in collabor
 ## Mobile
 * ~~Auth screens - login and register~~
 * ~~api connection module~~
-* getting images
+* ~~getting images~~
 * User
-    * profile
+    * ~~profile~~
 * Puzzles
-    * list puzzles
+    * ~~list puzzles~~
 
 # Raporty
 ### [Raport 1 - 07.12.2023](https://uniwroc-my.sharepoint.com/:p:/g/personal/322854_uwr_edu_pl/EUbfOyLDm0RBksYP_SeoPQoBHla8YqJoA766J4E4qMGhFw?e=pXheZW)
@@ -48,3 +48,4 @@ Czwartek
 * ##### Czy jest ktoś kto z ważnych powodów nie może się pojawić ani w czwartek ani w poniedziałek?
 Nie, udamy się całą grupą na prezentację na zajęciach czwartkowych.
 
+### [Raport końcowy - 25.01.2024](https://uniwroc-my.sharepoint.com/:p:/g/personal/322854_uwr_edu_pl/Ee00BG4RIKNNhbx9MznskOEB1iEM6jE4THP-g_LeN-aD8A?e=gBiayA)
